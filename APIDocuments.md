@@ -83,3 +83,12 @@ Delete order
 
  update order
  > localhost:6700/updateOrder/61ffab62c39f96bf7ba39676?status=Success
+
+ users
+ >localhost:5000/api/auth/users
+ login
+ >localhost:5000/api/auth/login
+ Register
+ >localhost:5000/api/auth/register
+ userInfo
+ >localhost:5000/api/auth/userInfo
